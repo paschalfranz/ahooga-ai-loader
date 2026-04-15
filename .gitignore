@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
+images/
+docs/
+video_frames/
+video_summaries/
+videos_local/
+static/assets/
+static/index.html
+static/favicon.ico
+*.log
